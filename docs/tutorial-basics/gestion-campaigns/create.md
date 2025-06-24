@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Creacion de Campañas
+# Registro
 
 ## Creación de nueva campaña
 

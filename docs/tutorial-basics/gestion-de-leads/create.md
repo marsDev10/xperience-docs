@@ -1,7 +1,8 @@
 ---
 sidebar_position: 3
 ---
-# Registro de Nuevos Leads
+
+# Registro
 
 Captura la información del prospecto.
 
