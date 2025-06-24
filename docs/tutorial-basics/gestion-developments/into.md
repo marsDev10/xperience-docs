@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Gestión de Desarrollos
+# Introducción
 
 En Xperience, la sección de **Desarrollos** permite administrar los proyectos inmobiliarios, asignar horarios y roles a los asesores, y consultar la información relevante de cada desarrollo. A continuación, se describe el uso de las principales funcionalidades de esta sección.
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Gestión de Usuarios
+# Introducción
 
 A continuación, se describe el proceso para crear un nuevo usuario en la plataforma Xperience. Sigue estos pasos para registrar correctamente a un usuario y asignarle los privilegios y productos correspondientes.
 

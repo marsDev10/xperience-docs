@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Gestión de Clientes
+# Introducción
 
 La sección de **Clientes** en Xperience permite administrar la información de tus clientes, gestionar sus accesos y productos asociados, así como editar o actualizar sus datos de manera sencilla.
 

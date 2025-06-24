@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Detalles Lead
+# Admistración
 
 Observa el comportamiento del prospecto.
 
